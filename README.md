@@ -4,7 +4,7 @@ APIs or Application Programming Interfaces are used to get and send data between
 
 ![Coldplay](https://s3.amazonaws.com/upperline/curriculum-assets/ruby/coldplay.jpg)
 
-In this lab, we've set up a call to the Spotify API that returns a big hash (filled with more hashes and arrays) all related to the current top tracks by  in the US. We then save this to a variable called `top_tracks`. Here's the code that pulls that data from the API for us.
+In this lab, we've set up a call to the Spotify API that returns a big hash (filled with more hashes and arrays) all related to the current top tracks by Coldplay in the US. We then save this to a variable called `top_tracks`. Here's the code that pulls that data from the API for us.
 
 ```ruby
 #import the gems we need to pull data from an API
